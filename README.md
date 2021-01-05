@@ -1,4 +1,4 @@
-# Hispanic Mental Health App Viability Analysis
+# Hispanic American Mental Health App Viability Analysis
 
 This project is an analysis of an App Store and a Google Play dataset to determine the market viability of a self-care mental health app specifically designed for Hispanic-Americans. 
 
